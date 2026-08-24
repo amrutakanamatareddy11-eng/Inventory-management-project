@@ -1,0 +1,2 @@
+[24-08-2026 23:24:01] Added product: pen | ID: 1 | Price: ₹10 | Quantity: 30
+[24-08-2026 23:24:13] Inventory saved successfully
